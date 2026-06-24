@@ -1,0 +1,14 @@
+{
+    "optimal_threshold": 0.3554859223526021,
+    "features": [
+        "age",
+        "Is_Male",
+        "cigsPerDay",
+        "totChol",
+        "sysBP",
+        "glucose",
+        "diaBP",
+        "BMI",
+        "PulsePressure"
+    ]
+}
