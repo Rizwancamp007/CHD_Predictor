@@ -97,6 +97,13 @@ By combining medical knowledge (Pulse Pressure) with advanced ML techniques (Thr
 
 ---
 
+## 🚀 Run it locally
+
+```bash
+pip install streamlit pandas numpy joblib scikit-learn
+streamlit run app.py
+```
+
 ## 📚 References
 
 - Framingham Heart Study Research Data
